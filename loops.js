@@ -6,9 +6,3 @@ function forLoop(array) {
   return array;
 }
 
-
-function whileLoop(n) {
-  while (var i = n; i <= n; i++) {
-  return "done";
-
-}
